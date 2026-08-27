@@ -1,0 +1,6 @@
+{
+  "name": "Blog Platform with Comments",
+  "description": "A full-stack blogging platform featuring user authentication, rich post authoring, post management, interactive nested comment threads, and RESTful API backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
